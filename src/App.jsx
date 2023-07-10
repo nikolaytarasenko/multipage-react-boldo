@@ -1,6 +1,8 @@
 function App() {
     return (
-        <h1 className="text-7xl">Hello, App</h1>
+        <div className="bg-white w-full overflow-hidden">
+            <h1>hello</h1>
+        </div>
     )
 }
 
