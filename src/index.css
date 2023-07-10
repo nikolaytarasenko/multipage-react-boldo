@@ -4,6 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .button {
+    @apply py-[16px] px-[56px] font-bold rounded-[56px] border-2 border-solid
+  }
+}
+
 :root {
   font-family: "Open Sans", system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-synthesis: none;

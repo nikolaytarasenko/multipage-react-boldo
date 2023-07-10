@@ -1,7 +1,10 @@
+import { Header, Hero } from './components'
+
 function App() {
     return (
         <div className="bg-white w-full overflow-hidden">
-            <h1>hello</h1>
+            <Header />
+            <Hero />
         </div>
     )
 }
