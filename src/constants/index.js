@@ -44,3 +44,18 @@ export const servicesCards = [
         link: '#'
     }
 ]
+
+export const connectItems = [
+    {
+        id: 'connect-1',
+        title: 'We connect our customers with the best.'
+    },
+    {
+        id: 'connect-2',
+        title: 'Advisor success customer launch party.'
+    },
+    {
+        id: 'connect-3',
+        title: 'Business-to-consumer long tail.'
+    },
+]

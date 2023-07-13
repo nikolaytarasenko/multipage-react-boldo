@@ -16,6 +16,9 @@ module.exports = {
         manrope: ["Manrope", "sans-serif"],
         opensans: ["Open Sans", "sans-serif"]
       },
+      backgroundImage: {
+        'connect-list-item': "url('/src/assets/check.svg')",
+      }
     },
     screens: {
       'xs': "480px",
