@@ -18,3 +18,15 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+/* Splide */
+.splide__arrow {
+  top: -100px;
+  width: 72px;
+  height: 72px;
+}
+
+.splide__arrow--prev {
+  left: unset;
+  right: 100px;
+}
